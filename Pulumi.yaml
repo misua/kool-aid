@@ -1,0 +1,6 @@
+name: kool-aid
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: drink koolaid
